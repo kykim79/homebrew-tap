@@ -1,6 +1,6 @@
 cask "cursorhighlight" do
-  version "0.3.1"
-  sha256 "0de815e182f5201ec51ad8a4f288bd9c6ffbd06f67630e1006842fece45993e3"
+  version "0.4.0"
+  sha256 "48ab374b2814db509e5fffa3d92c822938350f5c31e8bdfe1250beb3f28ed2fc"
 
   url "https://github.com/kykim79/CursorHighlight/releases/download/v#{version}/CursorHighlight.zip",
       verified: "github.com/kykim79/CursorHighlight/"
