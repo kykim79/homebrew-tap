@@ -1,6 +1,6 @@
 cask "cluxo" do
-  version "1.2.8"
-  sha256 "4f3c99dc4b3b99bae180c6aaf51a36b3aafdc9db0a4a69f35d9b7446de608125"
+  version "1.2.9"
+  sha256 "79307b657338a91485b2be9c267e0a545d433b37316583c9f423e42c9e9c49fc"
 
   url "https://github.com/kykim79/Cluxo/releases/download/v#{version}/Cluxo.zip",
       verified: "github.com/kykim79/Cluxo/"
